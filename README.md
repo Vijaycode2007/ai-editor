@@ -132,17 +132,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-* Main editor interface
-* Grammar correction results
-* Spell checking
-* Autocomplete suggestions
-* Text analysis output
-
----
 
 ## 🔮 Future Improvements
 
